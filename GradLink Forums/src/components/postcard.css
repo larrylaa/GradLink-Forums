@@ -1,0 +1,45 @@
+.postcard-container {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    width: 750px;
+    height: 280px;
+}
+
+  .username {
+    font-weight: 400;
+    margin-bottom: 5px;
+    font-size: 12px;
+    margin-right: 490px;
+    margin-top: 15px;
+    color: #3D5AF1; 
+  }
+  
+  .timestamp {
+    font-style: italic;
+    color: #aaa;
+    font-size: 12px;
+    margin-right: 265px;
+    margin-top: -22px;
+  }
+  
+  .body {
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 625px; 
+    font-weight: 300;
+    font-size: 14px;
+    color: #B3B3B3;
+}
+
+.comments {
+    margin-left: 600px;
+}
+
+hr {
+    width: 650px;
+    color: #E6E6E6;
+}
+
+
+
