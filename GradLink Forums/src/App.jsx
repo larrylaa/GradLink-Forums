@@ -14,7 +14,7 @@ function App() {
           <br></br>
           <br></br>
           <br></br>
-          <button className="createPost">➕  Create A New Post</button>
+          {/* <button className="createPost">➕  Create A New Post</button> */}
           <Postcards></Postcards>
           <Postcards></Postcards>
           <Postcards></Postcards>
