@@ -37,6 +37,7 @@ function App() {
         }
 
         setPosts(data);
+
       } catch (error) {
         console.error('Error fetching posts:', error.message);
       }
@@ -57,7 +58,7 @@ function App() {
 
           {posts.map(post => (
             <Postcards
-              key={post.id} 
+              id={post.id}
               title={post.title}
               votes={post.votes}
               body={post.body}
@@ -69,7 +70,7 @@ function App() {
           </>
         )} />
 
-        <Route path="/post/:id" element={(
+        <Route path="/:title" element={(
           <>
           </>
         )} />
