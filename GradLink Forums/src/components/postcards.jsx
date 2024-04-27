@@ -39,7 +39,7 @@ const Postcards = (props) => {
     return (
             <div className="postcard-container">
 
-                <a href={`/${props.title}`}>
+                <a href={`/post/${props.title}`}>
                 <div className="title"> {props.title}</div>
                 </a>
 
