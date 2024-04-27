@@ -84,13 +84,13 @@ function PostPage({ posts }) {
       const newCommentsArray = [...userCommentsArray, newComment]; 
       const { data, error } = await supabase.from('Posts').update({
         usercomments: newCommentsArray,
-        comments: comments + 1,
+        comments: post.comments + 1,
       }).eq('id', post.id);
-
+  
       if (error) {
         throw error;
       }
-
+  
       console.log('Comment posted:', data);
       setNewComment(''); 
       window.location.reload();
@@ -98,6 +98,7 @@ function PostPage({ posts }) {
       console.error('Error posting comment:', error.message);
     }
   };
+  
 
   const openUpdateModal = () => {
     setUpdatedTitle(post.title);
