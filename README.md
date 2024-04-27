@@ -4,7 +4,7 @@ Submitted by: **Larry La**
 
 This web app: **Forums functionality for college application connection app.**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
