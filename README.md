@@ -1,4 +1,6 @@
-![GradLink](https://github.com/larrylaa/WEB102_FinalProject/assets/137100338/f7717dfd-0fb4-40d1-b16f-773ba76e4258)# GradLink Forums
+# GradLink Forums
+
+![GradLink](https://github.com/larrylaa/WEB102_FinalProject/assets/137100338/f7717dfd-0fb4-40d1-b16f-773ba76e4258)
 ![Uploading<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="439px" height="120px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
