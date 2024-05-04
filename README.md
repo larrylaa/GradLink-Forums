@@ -1,7 +1,7 @@
 # GradLink Forums
 
 ![GradLink](https://github.com/larrylaa/WEB102_FinalProject/assets/137100338/f7717dfd-0fb4-40d1-b16f-773ba76e4258)
-![Uploading<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="439px" height="120px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(0.75,0,0,0.75,0,0)">
@@ -67,14 +67,30 @@
         <image id="_Image11" width="78px" height="31px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAfCAYAAABJePtPAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAFA0lEQVRoge2Zy08bVxSHvxPRRJFaWCRVlW5adlQCY1DVBatKZNEqizTLOkHYJhhjAnnYkEUksgEFE8LLNuZhnDaC7OiiSkVY9R+InySt2lU3SKmiVK0qtSKLuosZ22PPOMDgB63y23g8c33Omc++87vnWjhiuracPAWMARdE5CdgYqa3dbPGZekktS5Aq2vLyU7gAfA+gEiuvABwc6a39e8alabTkQB3dTl5HBgT8KGpSQMO4Clgm+lt3a5yeYaqObirS8kmhHWgvbiYInAAuwIjCIHpy62Z6lRorJqBu7qUFKAXmEU4aVSMAThljLAJOKYvt/5a4TJL6lgtkg4tJU8BG8ASKNCKlAHCwC8lQnwObN+IpM5VpMB9qOrghpaSnUAauFBiyA7QOeuyegArsF5i3LvAI28kFfBGUkbwK6qqTdWhxcRxYAwRH1A4CSX38g3gmnVZX2ovX19JXQQWgHrRjNccPgWx3btsqZpxVAXc4GKiSeAh0JZFVgTuL2BIIDrrsho+9K+vpBqBNYEOA3CA7CKMAIF7PZaKG0dFwQ0uJnIGINlnmR5cDME257L+vFe86yupOoFbCKOojxkNuOybxwL2qR5LRY2jYuAGFxOngAjwRUGiPLgMMAmMzvVZXx0k9o1IqgPl2fehATgEXgCOqR7Ld4e4hdeqIuAGFxNnga9RO4CCRAq4HYGuuT7r92Zz3IikGoCgwKVchjy4rILAyFSPpewdR1nBXQknTgBjIvhKJhLZAFzzfdbfypHTG0nZgDBIvQE4gGcItimnJV2OfFmVDdyVcKIJ1QAM1q0IigEgEp3vMzYAs/JGUo0gawgdaq7i5LsCN4H5u87yGMehwQ2E4yKIC5hBNQADcDEB27y7bU8DMCtvJF2HcAsYleL1aX4WPwYcd52W54fNdyhwAwvx0wgRQc4XBM1HzQB+4HbA3XYgAzAr72q6Q1TjyBdUcKMvUOAdyjhMgxtYiJ8FHiCckaIwKrgdoCvgbjNtAGblW003oBiDYhyiv1FBQgjDk44WU8ZxYHADC/ETwDjgzRelA7cBuALutrIYgFn5VtOKcYjacWgkSuHPANuko+XAxnEgcJ6FeL4D0ETQgFM6ACEacLfVdNsnK99quhFROw6NJP8z3EUxjsCko+Wf/cbdFzhPKC4ILmBGincz8uCeABeD/ZUzALPyRdNKx4G249DN3y0Bu9/Rsi/j2BOcJxQ/DUQQzht+QMgI4gduB/urYwBmNRxNazoO/YNP7TicfkfLo71ivRacJ6QaAJwpsbjcQegK9bdX3QDMajiaVjsOuWQALnsQAob99tLGYQiuPxQ7ATIuWQPQjNR8YANwhTztNTUAsxqJbtsQwkB99pwUHvwg8OWE3dg4dOD6Q7GPgIcg1hJ7ZkoHANGQp/1IGIBZjdzfbgTWoKjjyN/rK5CbwPyEvbnAOHJj3cGYCPQhTAMndYsM5c0TgYshT/uRMwCzGrm/XQdFHUfB7BKALcA+YW/OGYcAuIOx08BXAue02DXgMghzgF/5FjQyXsfpZLCtpLuoW2uV/rNGH9d4d6T4kuaU7uQnAovABwbgAF4iOCe6m78FEHcw1glsAm8VFmX4iytR1P8CnNFU1SUT2LrT3fyZuIOx34EGfVFvwJUAB+A8Brytq+6N9lLzMeDHWlfxH1MGWK8DPkXZ5v4Y+AN4rl58o7zeAd4D/gTG73Q3x/8FlgYzhXJlIacAAAAASUVORK5CYII="/>
     </defs>
 </svg>
- GradLink.svg…]()
  
 GradLink is a web application designed to simplify the college application process by connecting high school students with college student mentors. It's mission is to provide essential guidance and support, ensuring that every student, regardless of their background, can confidently pursue higher education. 
 
-This is a rough demo of the forums feature of the app, where students will be able to post and consult one another about topics relating to the college application process. Currently, I am using React for the frontend, and Supabase as a temporary backend. In the future, this will be refactored nicely and integrated into the main application, which will use React and Django. 
+This is a **rough demo** of the app's forums feature, where students can post and consult one another about topics relating to the college application process. Currently, I am using React for the frontend, and Supabase as a temporary backend. In the future, this will be refactored nicely and integrated into the main application, which will use React and Django. 
 
-# Demo
+## Demo
 ![Demo](https://github.com/larrylaa/WEB102_FinalProject/assets/137100338/6c5f1ee5-5413-4efa-b62b-506a3bde5e76)
+
+## Run Locally
+
+To run this project locally, follow these steps:
+```bash
+# 1. Clone the repository
+git clone https://github.com/larrylaa/WEB102_FinalProject.git
+
+# 2. Navigate to the project directory
+cd gradlink-forums
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the project
+npm run dev
+```
 
 ## License
 
